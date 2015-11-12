@@ -120,10 +120,6 @@ img {
 		-webkit-flex-wrap: wrap;
 		flex-wrap: wrap;
 	}
-	.secondary {
-		-webkit-order: -1;
-		order: -1;
-	}
 }
 
 @media (min-width: 1025px) {
