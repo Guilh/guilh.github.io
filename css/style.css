@@ -8,7 +8,7 @@
 body {
 	font-family: 'Varela Round', sans-serif;
 	line-height: 1.6;
-	color: #646464;
+	color: #525252;
 	margin: 0;
 	font: 125%/1.5 Baskerville,'Lucida Bright',Perpetua,Times,'Times New Roman',Palatino,Bookman,'New Century Schoolbook',serif;
 }
@@ -24,7 +24,7 @@ p {
 }
 h3,
 a {
-	color: #0293c9; /* #3079AB */
+	color: #0077b6; /* #3079AB */
 }
 h3 {
 	line-height: 1.25;
@@ -34,6 +34,9 @@ a {
 }
 img {
 	width: 100%;
+}
+.row a {
+	font-weight: 600;
 }
 
 /* ================================= 
@@ -49,21 +52,24 @@ img {
 .banner {
 	color: #fff;
 	background: linear-gradient(180deg, rgba(6, 34, 50, 0.4), rgba(3, 26, 33, 1)), 
-	url('../img/bg-2.jpg');
+	url('../img/banner-bg.jpg');
 
 	background-size: cover;
 	padding: 3em 0 2.5em 0;
 	margin-bottom: 3em;
 }
 .item {
-	padding: 1em;
-	background-color: rgb(236, 246, 255);
-	margin: 0 0.5em;
+	border-radius: 4px;
+	border: solid 2px rgba(0, 119, 182, 0.15);
+	margin: 0 0.5em 1em;
 	flex-basis: 250px;
-	display: flex;
-	flex-direction: column;
+}
+.item a {
+	display: block;
+	padding: 0.85em;
 }
 .main-footer {
+	font-size: 0.9em;
 	background: rgba(217,228,234,.35);
 	padding: 2em 0;
 	margin-top: 3em;
@@ -74,18 +80,28 @@ img {
 .photo {
 	width: 185px;
 	border-radius: 50%;
-	border: solid 3px rgba(255,255,255, 0.65);
+	border: solid 3px rgba(255,255,255, 0.85);
 }
 .headline {
 	margin: .35em 0 0;
 	line-height: 1.35;
 }
 .intro {
-	width: 40%;
+	font-size: 1.1em;
+	padding-bottom: 1.5em;
 	margin: 2em auto;
 }
+.intro,
+.row {
+	padding-left: 1em;
+	padding-right: 1em;
+}
 .social li {
+	font-size: 1.55em;
 	margin: 0 0.5em;
+}
+.social a {
+	color: inherit;
 }
 .title {
 	font-size: 1.75em;
@@ -96,15 +112,24 @@ img {
 /* ================================= 
   Media Queries
 ==================================== */
+@media (min-width: 0) and (max-width: 768px) {
+	.social.fc {
+		display: flex;
+		justify-content: center;
+	}	
+}
 
 @media (min-width: 769px) {
 	body {
 		font-size: 140%;
 	}
 	.row {
-		width: 90%;
-		flex-wrap: wrap;
+		width: 80%;
+		max-width: 880px;
 		margin: 0 auto;
+	}
+	.intro {
+		width: 90%;
 	}
 	.headline {
 		font-size: 2.65em;
@@ -119,8 +144,8 @@ img {
 }
 
 @media (min-width: 1025px) {
-	.row {
-		width: 80%;
-		max-width: 880px;
+	.intro {
+		width: 60%;
 	}
 }
+
