@@ -58,6 +58,16 @@ img {
 	padding: 3em 0 2.5em 0;
 	margin-bottom: 3em;
 }
+.fab i,
+.far i {
+	clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
 .item {
 	border-radius: 4px;
 	border: solid 2px rgba(0, 119, 182, 0.15);
