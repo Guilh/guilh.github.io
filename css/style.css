@@ -147,8 +147,10 @@ img {
 		font-size: 1.55em;
 	}
 	.fc {
+		max-width: 840px;
 		display: flex;
 		justify-content: center;
+		flex-wrap: wrap;
 	}
 }
 
