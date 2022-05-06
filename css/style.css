@@ -26,7 +26,7 @@ strong {
 }
 h3,
 a {
-	color: #0077b6; /* #3079AB */
+	color: #0077b6;
 }
 h3 {
 	line-height: 1.25;
@@ -100,7 +100,7 @@ img {
 }
 .intro {
 	font-size: 1.1em;
-	padding-bottom: 1.5em;
+	padding-bottom: 1em;
 	margin: 2em auto;
 }
 .intro,
@@ -144,7 +144,7 @@ img {
 		width: 90%;
 	}
 	.headline {
-		font-size: 2.65em;
+		font-size: 2.75em;
 	}
 	.tagline {
 		font-size: 1.55em;
