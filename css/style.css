@@ -99,6 +99,7 @@ img {
 	line-height: 1.35;
 }
 .intro {
+	max-width: 840px;
 	font-size: 1.1em;
 	padding-bottom: 1em;
 	margin: 2em auto;
