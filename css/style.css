@@ -62,7 +62,7 @@ img {
 }
 .fab i,
 .far i {
-	clip: rect(0 0 0 0);
+  clip: rect(0 0 0 0);
   clip-path: inset(50%);
   height: 1px;
   overflow: hidden;
@@ -75,6 +75,11 @@ img {
 	border: solid 2px rgba(0, 119, 182, 0.15);
 	margin: 0 0.5em 1em;
 	flex-basis: 250px;
+	transition: transform 0.3s ease, background-color 0.3s ease;
+}
+.item:hover {
+    transform: translateY(-5px);
+	background-color: rgba(9, 135, 203, 0.084);
 }
 .item a {
 	display: block;
