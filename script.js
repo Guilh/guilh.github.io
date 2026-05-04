@@ -44,18 +44,30 @@
     // ── RENDER ────────────────────────────────────
     const arrowSVG = `<svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M3 13 L13 3"/><path d="M5 3 L13 3 L13 11"/></svg>`;
 
-    const cardAccents = Array(18).fill('#C7764A');
-    // Thumbnail via Google's page screenshot proxy (best-effort, gracefully invisible if blocked)
-    document.getElementById('course-grid').innerHTML = courses.map((c, i) => `
-      <a href="${c.url}" target="_blank" rel="noopener" class="course-card" style="--card-accent:${cardAccents[i]}">
+    const courseGrid = document.getElementById('course-grid');
+    courseGrid.innerHTML = courses.map((c) => `
+      <a href="${c.url}" target="_blank" rel="noopener" class="course-card">
         <div class="course-card-top">
-          <span class="course-platform">${c.platform}</span>
-          <span class="course-arrow">${arrowSVG}</span>
+          <span class="course-platform"><span class="course-dot"></span>${c.platform}</span>
+          <span class="course-signal" aria-hidden="true"><span></span><span></span><span></span></span>
         </div>
         <h3 class="course-title">${c.title}</h3>
-        <span class="course-card-num">${String(i+1).padStart(2,'0')}</span>
+        <div class="course-card-bottom">
+          <span class="course-card-arrow">${arrowSVG}</span>
+        </div>
       </a>
     `).join('');
+
+    // Cursor-tracking radial glow on each course card
+    courseGrid.addEventListener('pointermove', (e) => {
+      const card = e.target.closest('.course-card');
+      if (!card) return;
+      const rect = card.getBoundingClientRect();
+      const x = ((e.clientX - rect.left) / rect.width) * 100;
+      const y = ((e.clientY - rect.top) / rect.height) * 100;
+      card.style.setProperty('--mx', `${x}%`);
+      card.style.setProperty('--my', `${y}%`);
+    });
 
     document.getElementById('speaking-grid').innerHTML = speaking.map(s => `
       <a href="${s.url}" target="_blank" rel="noopener" class="speak-item">
