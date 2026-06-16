@@ -1,7 +1,13 @@
 // ── DATA ──────────────────────────────────────
 const courses = [
   {
-    title: "Build Your First Agent in TypeScript",
+    title:
+      "Build Your First AI Agent With TypeScript and Mastra — Full Course (2026)",
+    platform: "Mastra",
+    url: "https://youtu.be/lCmf_qrGfGA?si=zoGhjamcXSFqpfqO",
+  },
+  {
+    title: "Build an AI Agent",
     platform: "Mastra",
     url: "https://mastra.ai/learn/what-is-an-agent",
   },
