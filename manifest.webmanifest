@@ -1,4 +1,10 @@
 {
+  "name": "Guil Hernandez",
+  "short_name": "Guil",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#EEE9DF",
+  "theme_color": "#EEE9DF",
   "icons": [
     { "src": "/192.png", "type": "image/png", "sizes": "192x192" },
     { "src": "/512.png", "type": "image/png", "sizes": "512x512" }

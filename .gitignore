@@ -1,2 +1,7 @@
 # misc
 .DS_Store
+
+# local backups and experiments
+original-design-backup/
+mockups/
+.claude/
