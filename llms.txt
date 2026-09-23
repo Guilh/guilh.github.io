@@ -2,9 +2,11 @@
 
 > Software developer and educator creating courses, curriculum, demos, and tools on AI agents, JavaScript, Python, and TypeScript. His courses have reached 550,000+ learners worldwide.
 
-Guil works with Python, TypeScript, and agentic AI. He has worked at [Shopify](https://www.shopify.com/), led curriculum for [Podium's first AI-native web development program](https://www.podium.fas.harvard.edu/coding-for-web), built courses for [Scrimba](https://scrimba.com/) and [LinkedIn Learning](https://www.linkedin.com/learning/instructors/guil-hernandez), and led the software curriculum and instructor team at [Treehouse](https://teamtreehouse.com/). He has shipped 150+ courses across 7+ platforms.
+I'm Guil, a developer and educator working with Python, TypeScript, and agentic AI. My courses have reached 550,000+ learners worldwide, from first lines of JavaScript to production AI agents, across 150+ courses on 7+ platforms.
 
-He is open to collaborations on AI courses, developer education programs, conference talks, and curriculum consulting.
+I've worked at [Shopify](https://www.shopify.com/), led curriculum for [Podium's first AI-native web development program](https://www.podium.fas.harvard.edu/coding-for-web), built courses for [Scrimba](https://scrimba.com/) and [LinkedIn Learning](https://www.linkedin.com/learning/instructors/guil-hernandez), and led the software curriculum and instructor team at [Treehouse](https://teamtreehouse.com/).
+
+Open to collaborations on AI courses, developer education programs, conference talks, and curriculum consulting.
 
 ## Courses
 
@@ -16,6 +18,14 @@ He is open to collaborations on AI courses, developer education programs, confer
 - [Deploying AI Apps with Cloudflare](https://www.coursera.org/learn/deploy-ai-app-with-cloudflare): Coursera
 - [AI Embeddings and Vector Databases](https://scrimba.com/playlist/p7zP5gdHJ): Scrimba
 - [Learn to Code with AI](https://youtu.be/dJhlMn2otxA): freeCodeCamp & Scrimba
+
+## Videos
+
+- [Build Your First AI Agent with TypeScript and Mastra](https://www.youtube.com/watch?v=lCmf_qrGfGA): Mastra, June 2026, 1:39:18 (featured)
+- [Token Optimization Training](https://www.youtube.com/watch?v=kLTK3WMTVJI&t=310s): Andela × GitHub, June 2026, 1:06:14
+- [Build Your First AI Agent in 90 Minutes](https://www.youtube.com/watch?v=i_gtfrxNHgE): Mastra, April 2026, 14:57
+- [Learn to Code Using AI](https://www.youtube.com/watch?v=dJhlMn2otxA): freeCodeCamp, January 2024, 4:46:20
+- [What Is RAG, and How to Make AI Work for You](https://www.youtube.com/watch?v=wS9Pq2zss68): Scrimba, December 2023, 26:24
 
 ## Speaking
 
