@@ -1,0 +1,63 @@
+# Guil Hernandez
+
+> Software developer and educator creating courses, curriculum, demos, and tools on AI agents, JavaScript, Python, and TypeScript. His courses have reached 550,000+ learners worldwide.
+
+Guil works with Python, TypeScript, and agentic AI. He has worked at [Shopify](https://www.shopify.com/), led curriculum for [Podium's first AI-native web development program](https://www.podium.fas.harvard.edu/coding-for-web), built courses for [Scrimba](https://scrimba.com/) and [LinkedIn Learning](https://www.linkedin.com/learning/instructors/guil-hernandez), and led the software curriculum and instructor team at [Treehouse](https://teamtreehouse.com/). He has shipped 150+ courses across 7+ platforms.
+
+He is open to collaborations on AI courses, developer education programs, conference talks, and curriculum consulting.
+
+## Courses
+
+- [Build Your First AI Agent with TypeScript and Mastra](https://youtu.be/lCmf_qrGfGA?si=zoGhjamcXSFqpfqO): Mastra
+- [GitHub Collaboration: Token Optimization Session and Q&A Videos](https://www.andela.com/webinar/optimize-github-copilot-token-costs/watch): GitHub + Andela
+- [Extend Copilot's Agent Mode with MCP](https://www.linkedin.com/learning/hands-on-mcp-extend-agent-mode-with-vs-code): LinkedIn Learning
+- [Node and OpenAI's Assistants API](https://www.linkedin.com/learning/build-a-document-search-assistant-with-node-and-openai-s-assistants-api): LinkedIn Learning
+- [DALL·E and GPT-4 Vision](https://scrimba.com/learn/dalle): Scrimba
+- [Deploying AI Apps with Cloudflare](https://www.coursera.org/learn/deploy-ai-app-with-cloudflare): Coursera
+- [AI Embeddings and Vector Databases](https://scrimba.com/playlist/p7zP5gdHJ): Scrimba
+- [Learn to Code with AI](https://youtu.be/dJhlMn2otxA): freeCodeCamp & Scrimba
+
+## Speaking
+
+- [Optimize GitHub Copilot Token Costs](https://www.youtube.com/watch?v=kLTK3WMTVJI&t=309s): GitHub + Andela
+- [Be a Librarian vs. a Code Encyclopedia](https://scrimba.com/podcast/be-a-librarian-not-an-encyclopedia-of-code-how-to-learn-and-teach-better-with-guil-hernandez): Scrimba
+- [How to Make AI Work for You](https://youtu.be/wS9Pq2zss68): Podcast
+- [Tackling Imposter Syndrome](https://podcasts.apple.com/ca/podcast/week-9-day-46-100-tackling-imposter-syndrome-guil-hernandez/id1506070060?i=1000476408134): 100DaysOfCode
+- [CSSconf EU](https://www.youtube.com/watch?v=UMwunYQGvhs): Berlin
+- [Thunder Nerds Podcast](https://www.thundernerds.io/2019/04/guil-hernandez-front-end-design-conference-2019/): 2019
+- [Front-End Design Conference](http://frontenddesignconference.com/speakers.php): St. Petersburg, FL
+- [Treehouse Festival, Emcee](https://teamtreehouse.com/library/treehouse-festival-june-2021): 2021
+- [Treehouse Festival](https://www.youtube.com/watch?v=WvAz833OkFg): 2020
+
+## Writing
+
+- [Agents Hour Podcast](https://youtu.be/i_gtfrxNHgE?si=xfi5X420HpVo_cBO): Livestream
+- [Scrimba's New AI Engineer Path: AMA](https://www.youtube.com/live/5nisJWiG6vs): Livestream
+- [How to Learn Web Development](https://youtu.be/negHxxfwAmc): Video
+- [The Importance of Code Reviews](https://scrimba.com/articles/the-importance-of-code-reviews/): Article
+- [Treehouse Coding Livestreams](https://youtube.com/playlist?list=PLuC2HflhhpLHMBPwoNhilQaBlaZpzo5_I): Playlist
+- [Panel Discussion: Onramp](https://youtu.be/lNgtLwescaY): Video
+- [Treehouse Blog Articles](https://blog.teamtreehouse.com/author/guillermohernandez): Archive
+
+## Contact
+
+- [Email](mailto:guiljhernandez@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/guiljh/)
+- [GitHub](https://github.com/Guilh)
+- [X / Twitter](https://twitter.com/guilh)
+- [Website](https://guilhernandez.com/)
+
+## Optional
+
+- [Build an AI Agent](https://mastra.ai/learn/what-is-an-agent): Mastra
+- [Chat Tool with OpenAI and Pinecone](https://www.linkedin.com/learning/creating-a-chat-tool-using-openai-models-and-pinecone): LinkedIn Learning
+- [Learn OpenAI's Assistants API](https://scrimba.com/learn/openaiassistants): Scrimba
+- [AI Coding for Non-Coders](https://scrimba.com/learn/aicoding): Scrimba
+- [JavaScript on the Go: Objects](https://www.linkedin.com/learning/javascript-on-the-go-objects/uncovering-javascript-objects): LinkedIn Learning
+- [React Router v6](https://www.linkedin.com/learning/building-modern-uis-with-react-router-v6): LinkedIn Learning
+- [JavaScript and the DOM](https://teamtreehouse.com/library/javascript-and-the-dom-3): Treehouse
+- [React Hooks](https://teamtreehouse.com/library/react-hooks): Treehouse
+- [Asynchronous Programming with JavaScript](https://teamtreehouse.com/library/asynchronous-programming-with-javascript): Treehouse
+- [React Authentication](https://teamtreehouse.com/library/react-authentication): Treehouse
+- [Beginner's Guide to JavaScript](https://youtu.be/UOeofWla8mE): YouTube
+- [JavaScript Basics](https://youtu.be/ekYNA10oe2I): YouTube

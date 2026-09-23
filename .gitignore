@@ -4,4 +4,4 @@
 # local backups and experiments
 original-design-backup/
 mockups/
-.claude/
+.claude/settings.local.json
