@@ -22,9 +22,9 @@ Open to collaborations on AI courses, developer education programs, conference t
 ## Videos
 
 - [Build Your First AI Agent with TypeScript and Mastra](https://www.youtube.com/watch?v=lCmf_qrGfGA): Mastra, June 2026, 1:39:18 (featured)
+- [Claude Opus 5.5 🤯](https://www.youtube.com/watch?v=UdH_ZWtyTJk): YouTube, September 2026, 4:27
 - [Token Optimization Training](https://www.youtube.com/watch?v=kLTK3WMTVJI&t=310s): Andela × GitHub, June 2026, 1:06:14
 - [Build Your First AI Agent in 90 Minutes](https://www.youtube.com/watch?v=i_gtfrxNHgE): Mastra, April 2026, 14:57
-- [Learn to Code Using AI](https://www.youtube.com/watch?v=dJhlMn2otxA): freeCodeCamp, January 2024, 4:46:20
 - [What Is RAG, and How to Make AI Work for You](https://www.youtube.com/watch?v=wS9Pq2zss68): Scrimba, December 2023, 26:24
 
 ## Speaking
@@ -55,6 +55,7 @@ Open to collaborations on AI courses, developer education programs, conference t
 - [LinkedIn](https://www.linkedin.com/in/guiljh/)
 - [GitHub](https://github.com/Guilh)
 - [X / Twitter](https://twitter.com/guilh)
+- [YouTube](https://www.youtube.com/@guiljhernandez)
 - [Website](https://guilhernandez.com/)
 
 ## Optional
